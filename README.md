@@ -1,2 +1,2 @@
-# zabbix-matrix-webhook
+# Zabbix Matrix webhook
 Zabbix Matrix webhook
